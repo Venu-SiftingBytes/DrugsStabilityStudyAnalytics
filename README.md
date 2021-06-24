@@ -9,9 +9,10 @@
                      --- DrugsStabilityStudyApp(folder)/
  ```                                         
 
-    Use following commands for CLI :
+    
     
  ```    
+ Use following commands for CLI :
     C:\Users\Venu>cd ~\Desktop
     C:\Users\Venu>mkdir DrugsStabilityStudyApp
     C:\Users\Venu>cd DrugsStabilityStudyApp    
