@@ -4,9 +4,7 @@
  1. Create a folder structure for project (Either use GUI or CLI)
  
  ``` 
-          Desktop(folder)/
-                     |
-                     --- DrugsStabilityStudyApp(folder)/
+          Desktop(folder)/DrugsStabilityStudyApp(folder)/
  ```                                         
 
     
