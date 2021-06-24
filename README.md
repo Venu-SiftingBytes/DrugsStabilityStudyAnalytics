@@ -27,13 +27,21 @@
     C:\Users\Venu\Desktop\DrugsStabilityStudyApp>python --version
     Python 3.9.5    
  ```
+ #### 3. Copy the Project source code in the following directory
+  
+  
+  
  #### 3. Create a Virtual environment for the Project
  ```
-         C:\Users\Venu\Desktop\DrugsStabilityStudyApp>python -m venv venv
-         C:\Users\Venu\Desktop\DrugsStabilityStudyApp>venv\Scripts\activate.bat
-         (venv)C:\Users\Venu\Desktop\DrugsStabilityStudyApp>
+    C:\Users\Venu\Desktop\DrugsStabilityStudyApp>python -m venv venv
+    C:\Users\Venu\Desktop\DrugsStabilityStudyApp>venv\Scripts\activate.bat
+    (venv)C:\Users\Venu\Desktop\DrugsStabilityStudyApp>
  ```
  #### 4. Installing Django & Verification
  ```
-      
+    (venv)C:\Users\Venu\Desktop\DrugsStabilityStudyApp>pip install "Django==3.0.*"
+    (venv)C:\Users\Venu\Desktop\DrugsStabilityStudyApp>pyhton -m django --version
+    '3.0.X'    
  ```
+
+ 
