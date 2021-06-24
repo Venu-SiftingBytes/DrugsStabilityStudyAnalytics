@@ -1,14 +1,13 @@
 ### DrugsStabilityStudyAnalytics
 
 #### I. Setting up Development Environment on Windows 10 
- 1. Create a folder structure for project 
+ 1. Create a folder structure for project (Either use GUI or CLI)
  ``` 
           Desktop(folder)/
                      |
                      --- DrugsStabilityStudyApp(folder)/
  ```                                         
-     - Through GUI
-     - Or through Command Line Interface
+
 
     ```    
     C:\Users\Venu>cd ~\Desktop
