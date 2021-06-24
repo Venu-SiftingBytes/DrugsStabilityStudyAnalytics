@@ -27,3 +27,10 @@
     C:\Users\Venu\Desktop\DrugsStabilityStudyApp>python --version
     Python 3.9.5    
  ```
+ #### 3. Create a Virtual environment for the Project
+    
+         ```
+         C:\Users\Venu\Desktop\DrugsStabilityStudyApp>python -m venv venv
+         C:\Users\Venu\Desktop\DrugsStabilityStudyApp>venv\Scripts\activate.bat
+         (venv)C:\Users\Venu\Desktop\DrugsStabilityStudyApp>
+         ```
