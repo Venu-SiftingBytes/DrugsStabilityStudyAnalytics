@@ -33,3 +33,7 @@
          C:\Users\Venu\Desktop\DrugsStabilityStudyApp>venv\Scripts\activate.bat
          (venv)C:\Users\Venu\Desktop\DrugsStabilityStudyApp>
  ```
+ #### 4. Installing Django & Verification
+ ```
+      
+ ```
