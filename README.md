@@ -1,6 +1,6 @@
 ### DrugsStabilityStudyAnalytics
 
-I. Setting up Development Environment on Windows 10 
+## I. Setting up Development Environment on Windows 10 
  1. Create a folder structure for project 
  ``` 
           Desktop(folder)/
