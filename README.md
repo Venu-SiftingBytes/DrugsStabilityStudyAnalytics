@@ -2,8 +2,13 @@
 
 I. Setting up Development Environment on Windows 10 
  1. Create a folder structure for project 
-     - Open Command Line Interface or through GUI 
-
+ ``` 
+          Desktop(folder)/
+                     |
+                     --- DrugsStabilityStudyApp(folder)/
+ ```                                         
+     - Through GUI
+     - Or through Command Line Interface
 
     ```    
     C:\Users\Venu>cd ~\Desktop
